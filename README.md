@@ -20,4 +20,4 @@ Combination Maker is a small program that exports a spreadsheet of all the possi
 ## Media
 ![screenshot](/media/allparts.png)
 
-https://user-images.githubusercontent.com/108964363/178090610-0e2b3a9e-4873-4b71-b990-2d242541d1cb.mp4
+https://user-images.githubusercontent.com/108964363/178091461-5ef25dad-31e0-4a82-a4fd-e0bd6cbc864a.mp4
